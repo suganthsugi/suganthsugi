@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://github.com/suganthsugi)
-<h1 align="center">Hi 👋, I'm Suganth</h1><hr>
-<h3 align="center">A passionate full stack developer</h3><br>
+<h1 align="center">Hi 👋, I'm Suganth</h1>
+<h3 align="center">A passionate full stack developer</h3><hr>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 <br>
 - 🔭 I’m currently working on **Blog It**
