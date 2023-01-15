@@ -1,4 +1,4 @@
-[![MasterHead](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)](https://github.com/suganthsugi)
+[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)](https://github.com/suganthsugi)
 <h1 align="center">Hi 👋, I'm Suganth</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
