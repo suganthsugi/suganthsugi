@@ -1,4 +1,4 @@
-<center>[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)](https://github.com/suganthsugi)</center>
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://github.com/suganthsugi)
 <h1 align="center">Hi 👋, I'm Suganth</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
