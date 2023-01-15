@@ -1,3 +1,4 @@
+[![MasterHead](https://www.canva.com/design/DAFXwKXfVcc/RChHEp5ADXNTZx7OAR8GMg/view?utm_content=DAFXwKXfVcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://github.com/suganthsugi)
 <h1 align="center">Hi 👋, I'm Suganth</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
