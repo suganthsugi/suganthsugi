@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Suganth</h1>
 <h3 align="center">A passionate full stack developer</h3><hr>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
-<br>
-- 🔭 I’m currently working on **Blog It**
+
+- 🔭 I’m currently working on **BlogIt**
 
 - 🌱 I’m currently learning **Postgres, Express JS, React, Node...**
 
@@ -25,9 +25,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/gsuganth)](https://leetcode.com/gsuganth)
 
-
-<center><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suganthsugi&show_icons=true&locale=en&layout=compact" alt="suganthsugi" /></p></center>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suganthsugi&show_icons=true&locale=en&layout=compact" alt="suganthsugi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suganthsugi&show_icons=true&locale=en" alt="suganthsugi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suganthsugi&" alt="suganthsugi" /></p>
