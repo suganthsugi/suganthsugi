@@ -25,7 +25,5 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/gsuganth)](https://leetcode.com/gsuganth)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vsubashvsubash?theme=dark&font=Noto%20Sans%20Elymaic)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suganthsugi&" alt="suganthsugi" /></p>
 
