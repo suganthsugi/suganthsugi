@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suganth;Full-Stack+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Rails;I+build+multi-tenant+SaaS+at+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suganth;Full-Stack+Engineer+%40+Casa+Retail+AI;Node.js+%7C+TypeScript+%7C+React+%7C+Rails" alt="Typing SVG" />
 
 <h3>Full-stack engineer building retail CRM & messaging systems — Node.js/TypeScript, React, Ruby on Rails, Kafka & ClickHouse</h3>
 
@@ -18,9 +18,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Building **multi-tenant retail CRM systems** — campaign engines, ticketing platforms, and data pipelines
+- 🏢 Full-Stack Engineer at **[Casa Retail AI](https://casaretail.ai)** — building multi-tenant retail CRM: campaign engines, ticketing platforms, and data pipelines
 - ⚡ Shipped **WhatsApp Business API integrations** (3 providers, end-to-end) and **Kafka → ClickHouse** live-sync pipelines
-- 🎫 Top contributor to a heavily customized **Zammad-based helpdesk** (Rails + Vue) — RBAC, customer messaging, CRM integrations
+- 🎫 Top contributor to **Ticket Desk**, our multi-tenant CRM helpdesk (Rails + Vue) — role-based access control, customer messaging, CRM integrations
 - ✍️ I write about real production problems at **[dev.to/suganth_g](https://dev.to/suganth_g)**
 - 📫 Reach me at **suganthjayanthi@gmail.com**
 
