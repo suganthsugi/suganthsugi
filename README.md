@@ -2,14 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suganth;Full-Stack+Engineer+%40+Casa+Retail+AI;Node.js+%7C+TypeScript+%7C+React+%7C+Rails" alt="Typing SVG" />
 
-<h3>Full-stack engineer building retail CRM & messaging systems — Node.js/TypeScript, React, Ruby on Rails, Kafka & ClickHouse</h3>
+<h3>Full-stack engineer building retail CRM - Node.js/TypeScript, React, Ruby on Rails, Kafka & ClickHouse</h3>
 
 <p>
+<a href="mailto:suganthjayanthi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/gsuganth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://dev.to/suganth_g"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
 <a href="https://twitter.com/gsuganthsugi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
 <a href="https://leetcode.com/gsuganth"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="mailto:suganthjayanthi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
