@@ -1,69 +1,32 @@
-<div align="center">
+## Suganth Gopal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suganth;Full-Stack+Engineer+%40+Casa+Retail+AI;Node.js+%7C+TypeScript+%7C+React+%7C+Rails" alt="Typing SVG" />
+**Product Engineer | Full Stack** at [Casa Retail AI](https://casaretail.ai) · Tiruppur, India
 
-<h3>Full-stack engineer building retail CRM - Node.js/TypeScript, React, Ruby on Rails, Kafka & ClickHouse</h3>
+I turn business problems into working software, owning each feature from the first plan to production. For 3+ years I've been building products that help retail brands sell, serve and stay in touch with their customers.
 
-<p>
-<a href="mailto:suganthjayanthi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/gsuganth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://dev.to/suganth_g"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
-<a href="https://twitter.com/gsuganthsugi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://leetcode.com/gsuganth"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/suganth.me-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://suganth.me)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:suganthjayanthi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsuganth/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-111111?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/suganth_g)
 
-</div>
+### Selected work
 
----
+- **Campaign engine**: made marketing campaigns 10x faster, cutting the time to reach a brand's full customer list from about 5 hours to 30 minutes.
+- **Ticket Desk**: own the multi-tenant helpdesk (Rails + Vue) that brands use to resolve complaints from email, WhatsApp and store receipts, and to turn support conversations into sales leads. Top contributor to the codebase.
+- **WhatsApp messaging**: integrated 3 providers end to end across the message engine, API server and dashboard, and made sure no message is lost during telecom quiet hours.
+- **Data pipelines**: Kafka to ClickHouse live-sync pipelines for tickets, loyalty and offers, including batch backfill migrations.
+- **Product sync**: automated catalogue onboarding straight from store billing systems, with tenant-level job limits so large brands never slow down smaller ones.
 
-### 🚀 About Me
+### Writing
 
-- 🏢 Full-Stack Engineer at **[Casa Retail AI](https://casaretail.ai)** — building multi-tenant retail CRM: campaign engines, ticketing platforms, and data pipelines
-- ⚡ Shipped **WhatsApp Business API integrations** (3 providers, end-to-end) and **Kafka → ClickHouse** live-sync pipelines
-- 🎫 Top contributor to **Ticket Desk**, our multi-tenant CRM helpdesk (Rails + Vue) — role-based access control, customer messaging, CRM integrations
-- ✍️ I write about real production problems at **[dev.to/suganth_g](https://dev.to/suganth_g)**
-- 📫 Reach me at **suganthjayanthi@gmail.com**
+- [How We Saved Money and Prevented "Ghost" Messages by Respecting Telecom Quiet Hours](https://dev.to/suganth_g/how-we-saved-money-and-prevented-ghost-messages-by-respecting-telecom-quiet-hours-3m9p)
+- [How We Increased Campaign Speed by 10x: Overcoming Third-Party API Bottlenecks](https://dev.to/suganth_g/how-we-increased-campaign-speed-by-10x-overcoming-third-party-api-bottlenecks-ln6)
+- [Ticket Desk: A Multi-Tenant CRM Helpdesk at the Heart of Retail](https://dev.to/suganth_g/ticket-desk-a-multi-tenant-crm-helpdesk-at-the-heart-of-retail-1lp5)
+- [How We Stopped Tenants From Hogging the Job Queue: Tenant-Level Parallel Job Limiting in Sidekiq](https://dev.to/suganth_g/how-we-stopped-tenants-from-hogging-the-job-queue-tenant-level-parallel-job-limiting-in-sidekiq-2aeg)
+- [How a Small Product Sync Automation Changed Onboarding at Scale](https://dev.to/suganth_g/how-a-small-product-sync-automation-changed-onboarding-at-scale-57de)
 
-### 📝 Latest Blog Posts
+### Stack
 
-- [How We Stopped Tenants From Hogging the Job Queue — Tenant-Level Parallel Job Limiting in Sidekiq](https://dev.to/suganth_g)
-- [How We Increased Campaign Speed by 10x: Overcoming Third-Party API Bottlenecks](https://dev.to/suganth_g)
-- [How We Saved Money and Prevented "Ghost" Messages by Respecting Telecom Quiet Hours](https://dev.to/suganth_g)
-- [Ticket Desk: A Multi-Tenant CRM Helpdesk at the Heart of Retail](https://dev.to/suganth_g)
-
-<!-- Tip: replace the links above with exact article URLs, or automate with the blog-post-workflow GitHub Action -->
-
-### 🛠️ Tech Stack
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,express,rails,ruby,kafka,graphql" height="40" alt="backend stack" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vue,js,html,css,vite" height="40" alt="frontend stack" />
-
-**Data & Infra**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,docker,aws,linux,git" height="40" alt="data and infra" />
-
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" height="22" alt="ClickHouse"/> <img src="https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square&logo=ruby&logoColor=white" height="22" alt="Sidekiq"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" height="22" alt="Sequelize"/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suganthsugi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suganthsugi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suganthsugi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://leetcard.jacoblin.cool/gsuganth?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
-
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=suganthsugi&style=flat-square&color=blue" alt="Profile views" />
-</div>
+- **Languages**: TypeScript, JavaScript, Ruby, Python, Java, SQL
+- **Frameworks**: Node.js, Express, Ruby on Rails, React, Next.js, Vue
+- **Data & Infra**: PostgreSQL, ClickHouse, Kafka, Redis, AWS, Docker, Kubernetes
