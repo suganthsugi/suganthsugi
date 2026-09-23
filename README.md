@@ -1,6 +1,6 @@
 ## Suganth Gopal
 
-**Product Engineer | Full Stack** at [Casa Retail AI](https://casaretail.ai) · Tiruppur, India
+**Product Engineer | Full Stack** at [Casa Retail AI](https://casaretail.ai) · Tamil Nadu, India
 
 I turn business problems into working software, owning each feature from the first plan to production. For 3+ years I've been building products that help retail brands sell, serve and stay in touch with their customers.
 
